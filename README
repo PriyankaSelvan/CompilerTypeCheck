@@ -1,0 +1,5 @@
+USE
+typeCheck.py checks types of expressions in code.py
+
+CITATIONS
+Python Compiler Module: https://docs.python.org/2/library/compiler.html
